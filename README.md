@@ -1,17 +1,17 @@
 User credentials: 
 
 Account 1: 
-username = at
+username = at  /
 pass = 1111
 
 Account 2:
-username = jd
+username = jd /
 pass = 2222
 
 Account 3:
-username stw
+username stw /
 pass = 3333
 
 Account 4:
-username: ss
+username: ss /
 pass = 4444
